@@ -14,8 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# Generating the documentation
-
+I'm
 To generate the documentation, you first have to build it. Several packages are necessary to build the doc, 
 you can install them with the following command, at the root of the code repository:
 
